@@ -1,0 +1,25 @@
+html, * {
+    font-family: helvetica;
+    box-sizing: border-box;
+  }
+
+  body {
+      display: flex;
+      justify-content: center;
+      color: red;
+      align-items: center;
+  }
+
+  button {
+      padding: 40px;
+  }
+
+  input {
+      padding: 10px;
+      font-size: 40px;
+  }
+
+  h2 {
+      text-align: center;
+      font-size: 40px;
+  }
