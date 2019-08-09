@@ -6,17 +6,26 @@ html, * {
   body {
       display: flex;
       justify-content: center;
-      color: red;
+      color:black;
       align-items: center;
   }
 
   button {
-      padding: 40px;
+      padding: 0px;
+      background-color:  #A9A9A9;
+      border-radius: 10%;
+      font-size: 40px;
+      border: 5px solid  #A9A9A9;
+      width: 70px;
   }
 
   input {
-      padding: 10px;
+      padding: 0px;
       font-size: 40px;
+      width: 100px;
+      border: 5px solid  #A9A9A9;
+      border-radius: 10%;
+    
   }
 
   h2 {
